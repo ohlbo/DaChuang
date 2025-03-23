@@ -1,0 +1,17 @@
+#单目深度结合imu
+https://github.com/HKUST-Aerial-Robotics/VINS-Mono  
+
+#MiDaS
+https://github.com/isl-org/MiDaS
+
+#树莓派5B引脚
+https://pinout.vvzero.com/pinout/pin10_gpio15
+
+#ncnn
+https://github.com/Tencent/ncnn
+
+#yolov5_lite
+https://github.com/ppogg/YOLOv5-Lite
+
+#清华镜像源
+https://mirrors.tuna.tsinghua.edu.cn/help/debian/

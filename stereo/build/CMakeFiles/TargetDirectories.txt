@@ -1,0 +1,3 @@
+/home/apex/Documents/stereo/build/CMakeFiles/Test.dir
+/home/apex/Documents/stereo/build/CMakeFiles/edit_cache.dir
+/home/apex/Documents/stereo/build/CMakeFiles/rebuild_cache.dir
